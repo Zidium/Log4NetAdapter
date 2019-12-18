@@ -37,8 +37,8 @@
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Data" />
-    <Reference Include="Zidium.Api, Version=1.0.47.0, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\packages\Api.Zidium.Net.1.0.47\lib\net35-client\Zidium.Api.dll</HintPath>
+    <Reference Include="Zidium.Api, Version=1.0.54.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\Api.Zidium.Net.1.0.54\lib\net35-client\Zidium.Api.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
